@@ -1,0 +1,6 @@
+.git
+.github
+_build
+eb
+rebar.lock
+*.beam
