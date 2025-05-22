@@ -1,0 +1,6 @@
+{application, switchboard,
+ [{description, "AI API switchboard"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, {switchboard_app, []}},
+  {applications, [kernel, stdlib, inets]}]}.
